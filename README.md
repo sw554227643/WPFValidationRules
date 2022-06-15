@@ -5,5 +5,7 @@
 - 可跟随窗口移动
 - 不会置顶
 
-![数据验证gif](https://user-images.githubusercontent.com/44052801/173780997-8373962f-0c19-46c3-a3c8-e3c63c1151ac.gif)
+![数据验证gif](https://user-images.githubusercontent.com/44052801/173781186-58af7f0e-f427-4f34-9c2d-341af6720501.gif)
 
+
+![数据验证gif](https://user-images.githubusercontent.com/44052801/173781372-bce0861e-5a33-4734-bf73-a2186df74dbe.gif)
